@@ -3,7 +3,6 @@ import youtube_dl
 from discord.ext import commands
 
 client = discord.Client()
-token = 'MTAwMzIwNTUzMjAxMTcyODk4Nw.GKRmhE.gO5vlaoAJF6EnGY__cMC8gM3ubh6e2WTmm0K3o'
 
 bot = commands.Bot(command_prefix="!") # 접두사를 !로 지정
 
